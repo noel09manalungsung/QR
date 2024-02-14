@@ -89,7 +89,7 @@ p {
   font-size: var(--FS);
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 550px) {
   body {
     padding: 2rem;
   }
